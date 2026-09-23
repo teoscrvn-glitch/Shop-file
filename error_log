@@ -1,0 +1,129 @@
+[04-Mar-2026 05:38:44 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 05:39:46 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 05:39:46 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 05:39:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 05:39:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 05:40:17 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 05:40:17 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 06:05:08 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 06:12:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'createdate' in 'INSERT INTO' in /home/trumrobl/public_html/core/db.php:111
+Stack trace:
+#0 /home/trumrobl/public_html/core/db.php(111): mysqli_query()
+#1 /home/trumrobl/public_html/includes/admin/edit_users.php(63): LOCNGUYEN_SIEUTHICODE->insert()
+#2 /home/trumrobl/public_html/main.php(196): include('/home/trumrobl/...')
+#3 {main}
+  thrown in /home/trumrobl/public_html/core/db.php on line 111
+[04-Mar-2026 06:13:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'createdate' in 'INSERT INTO' in /home/trumrobl/public_html/core/db.php:111
+Stack trace:
+#0 /home/trumrobl/public_html/core/db.php(111): mysqli_query()
+#1 /home/trumrobl/public_html/includes/admin/edit_users.php(63): LOCNGUYEN_SIEUTHICODE->insert()
+#2 /home/trumrobl/public_html/main.php(196): include('/home/trumrobl/...')
+#3 {main}
+  thrown in /home/trumrobl/public_html/core/db.php on line 111
+[04-Mar-2026 06:13:17 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 06:13:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'createdate' in 'INSERT INTO' in /home/trumrobl/public_html/core/db.php:111
+Stack trace:
+#0 /home/trumrobl/public_html/core/db.php(111): mysqli_query()
+#1 /home/trumrobl/public_html/includes/admin/edit_users.php(63): LOCNGUYEN_SIEUTHICODE->insert()
+#2 /home/trumrobl/public_html/main.php(196): include('/home/trumrobl/...')
+#3 {main}
+  thrown in /home/trumrobl/public_html/core/db.php on line 111
+[04-Mar-2026 06:13:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'createdate' in 'INSERT INTO' in /home/trumrobl/public_html/core/db.php:111
+Stack trace:
+#0 /home/trumrobl/public_html/core/db.php(111): mysqli_query()
+#1 /home/trumrobl/public_html/includes/admin/edit_users.php(63): LOCNGUYEN_SIEUTHICODE->insert()
+#2 /home/trumrobl/public_html/main.php(196): include('/home/trumrobl/...')
+#3 {main}
+  thrown in /home/trumrobl/public_html/core/db.php on line 111
+[04-Mar-2026 06:17:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'createdate' in 'INSERT INTO' in /home/trumrobl/public_html/core/db.php:111
+Stack trace:
+#0 /home/trumrobl/public_html/core/db.php(111): mysqli_query()
+#1 /home/trumrobl/public_html/includes/admin/edit_users.php(77): LOCNGUYEN_SIEUTHICODE->insert()
+#2 /home/trumrobl/public_html/main.php(196): include('/home/trumrobl/...')
+#3 {main}
+  thrown in /home/trumrobl/public_html/core/db.php on line 111
+[04-Mar-2026 06:17:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'createdate' in 'INSERT INTO' in /home/trumrobl/public_html/core/db.php:111
+Stack trace:
+#0 /home/trumrobl/public_html/core/db.php(111): mysqli_query()
+#1 /home/trumrobl/public_html/includes/admin/edit_users.php(77): LOCNGUYEN_SIEUTHICODE->insert()
+#2 /home/trumrobl/public_html/main.php(196): include('/home/trumrobl/...')
+#3 {main}
+  thrown in /home/trumrobl/public_html/core/db.php on line 111
+[04-Mar-2026 06:18:00 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 06:18:01 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 06:18:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'createdate' in 'INSERT INTO' in /home/trumrobl/public_html/core/db.php:111
+Stack trace:
+#0 /home/trumrobl/public_html/core/db.php(111): mysqli_query()
+#1 /home/trumrobl/public_html/includes/admin/edit_users.php(77): LOCNGUYEN_SIEUTHICODE->insert()
+#2 /home/trumrobl/public_html/main.php(196): include('/home/trumrobl/...')
+#3 {main}
+  thrown in /home/trumrobl/public_html/core/db.php on line 111
+[04-Mar-2026 06:18:09 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 06:18:10 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 06:18:33 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 06:18:49 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 06:18:59 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 06:25:17 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 06:25:17 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 06:25:29 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 06:25:29 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 06:42:57 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 06:44:13 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 06:44:13 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 06:44:49 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 06:44:49 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 06:45:13 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 06:45:13 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 06:54:07 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 06:54:09 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 06:54:11 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 07:00:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 07:00:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 07:00:40 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 07:00:40 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 07:00:44 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 07:00:44 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 07:00:51 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 07:00:51 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 07:25:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 21
+[04-Mar-2026 07:25:28 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 21
+[04-Mar-2026 07:25:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 31
+[04-Mar-2026 07:25:28 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 31
+[04-Mar-2026 07:25:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 43
+[04-Mar-2026 07:25:28 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 43
+[04-Mar-2026 07:25:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 50
+[04-Mar-2026 07:25:28 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 50
+[04-Mar-2026 07:25:28 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 53
+[04-Mar-2026 07:25:28 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 53
+[04-Mar-2026 07:25:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 21
+[04-Mar-2026 07:25:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 21
+[04-Mar-2026 07:25:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 31
+[04-Mar-2026 07:25:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 31
+[04-Mar-2026 07:25:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 43
+[04-Mar-2026 07:25:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 43
+[04-Mar-2026 07:25:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 50
+[04-Mar-2026 07:25:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 50
+[04-Mar-2026 07:25:37 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 53
+[04-Mar-2026 07:25:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 53
+[04-Mar-2026 07:25:51 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 21
+[04-Mar-2026 07:25:51 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 21
+[04-Mar-2026 07:25:51 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 31
+[04-Mar-2026 07:25:51 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 31
+[04-Mar-2026 07:25:51 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 43
+[04-Mar-2026 07:25:51 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 43
+[04-Mar-2026 07:25:51 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 50
+[04-Mar-2026 07:25:51 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 50
+[04-Mar-2026 07:25:51 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $row in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 53
+[04-Mar-2026 07:25:51 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/trumrobl/public_html/includes/admin/edit_menu.php on line 53
+[04-Mar-2026 07:35:42 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 07:53:57 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 07:53:57 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 07:54:04 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 07:54:04 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 07:54:10 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 07:54:10 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 08:29:30 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trumrobl/public_html/main.php:90) in /home/trumrobl/public_html/includes/admin/list_users.php on line 421
+[04-Mar-2026 08:36:39 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 08:36:39 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 08:56:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305
+[04-Mar-2026 08:56:37 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type bool in /home/trumrobl/public_html/core/helpers.php on line 305

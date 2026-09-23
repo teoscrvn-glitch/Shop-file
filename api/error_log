@@ -1,0 +1,60 @@
+[13-Feb-2023 00:51:48 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/meoamion/locxinh.sieuthicode.net/api/amount.php on line 14
+[13-Feb-2023 00:52:00 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/meoamion/locxinh.sieuthicode.net/api/amount.php on line 14
+[13-Feb-2023 00:52:14 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/meoamion/locxinh.sieuthicode.net/api/amount.php on line 14
+[13-Feb-2023 14:37:11 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/meoamion/locxinh.sieuthicode.net/api/amount.php on line 14
+[13-Feb-2023 14:37:54 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/meoamion/locxinh.sieuthicode.net/api/amount.php on line 14
+[03-Mar-2026 19:08:11 UTC] PHP Warning:  require_once(/home/trumrobl/public_html/libs/init.php): Failed to open stream: No such file or directory in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:08:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/trumrobl/public_html/libs/init.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trumrobl/public_html/api/card_callback.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:08:13 UTC] PHP Warning:  require_once(/home/trumrobl/public_html/libs/init.php): Failed to open stream: No such file or directory in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:08:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/trumrobl/public_html/libs/init.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trumrobl/public_html/api/card_callback.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:08:17 UTC] PHP Warning:  require_once(/home/trumrobl/public_html/libs/init.php): Failed to open stream: No such file or directory in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:08:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/trumrobl/public_html/libs/init.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trumrobl/public_html/api/card_callback.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:08:37 UTC] PHP Warning:  require_once(/home/trumrobl/public_html/libs/init.php): Failed to open stream: No such file or directory in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:08:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/trumrobl/public_html/libs/init.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trumrobl/public_html/api/card_callback.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:08:56 UTC] PHP Warning:  require_once(/home/trumrobl/public_html/libs/init.php): Failed to open stream: No such file or directory in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:08:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/trumrobl/public_html/libs/init.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trumrobl/public_html/api/card_callback.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:11:35 UTC] PHP Warning:  require_once(/home/trumrobl/public_html/libs/init.php): Failed to open stream: No such file or directory in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:11:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/trumrobl/public_html/libs/init.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trumrobl/public_html/api/card_callback.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:11:41 UTC] PHP Warning:  require_once(/home/trumrobl/public_html/libs/init.php): Failed to open stream: No such file or directory in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:11:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/trumrobl/public_html/libs/init.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trumrobl/public_html/api/card_callback.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:13:27 UTC] PHP Warning:  require_once(/home/trumrobl/public_html/libs/init.php): Failed to open stream: No such file or directory in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:13:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/trumrobl/public_html/libs/init.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trumrobl/public_html/api/card_callback.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:13:43 UTC] PHP Warning:  require_once(/home/trumrobl/public_html/libs/init.php): Failed to open stream: No such file or directory in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:13:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/trumrobl/public_html/libs/init.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trumrobl/public_html/api/card_callback.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:16:20 UTC] PHP Warning:  require_once(/home/trumrobl/public_html/libs/init.php): Failed to open stream: No such file or directory in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:16:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/trumrobl/public_html/libs/init.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trumrobl/public_html/api/card_callback.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/trumrobl/public_html/api/card_callback.php on line 2
+[03-Mar-2026 19:58:16 UTC] PHP Warning:  require_once(/home/trumrobl/public_html/libs/init.php): Failed to open stream: No such file or directory in /home/trumrobl/public_html/api/callback_card.php on line 2
+[03-Mar-2026 19:58:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/trumrobl/public_html/libs/init.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/trumrobl/public_html/api/callback_card.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/trumrobl/public_html/api/callback_card.php on line 2

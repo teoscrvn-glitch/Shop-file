@@ -1,0 +1,12 @@
+RewriteEngine On
+
+# ✅ Cho phép gọi thẳng callback file trong /api
+RewriteRule ^api/card_callback\.php$ api/card_callback.php [L]
+
+# (giữ nguyên các rule api/v1 của bạn bên dưới)
+RewriteRule ^api/v1/balance$ api/balance.php [L]
+RewriteRule ^api/v1/categories$ api/categories.php [L]
+RewriteRule ^api/v1/buy$ api/buy.php [L]
+RewriteRule ^api/v1/orders$ api/orders.php [L]
+RewriteRule ^api/v1/order$ api/order.php [L]
+RewriteRule ^api/v1/group/([A-Za-z0-9-]+)$ api/group.php?id=$1 [L]
